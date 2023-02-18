@@ -98,7 +98,6 @@ function finishGame() {
         return
 
     } else {
-        console.log(`RESULT: You=${playerScore} Computer=${computerScore}`)
         round++
     }
 }
