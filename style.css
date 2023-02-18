@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+.disabled {
+    opacity: 0.5;
+}
+
+.disabled:hover {
+    cursor:not-allowed;
+}
+
+.buttons {
+    user-select: none;
+}
